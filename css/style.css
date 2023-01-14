@@ -49,6 +49,23 @@
     border: #000 solid #b538a4 5px;
 }
 
+.video_1 {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video_1 video {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    border: #000 solid #b538a4 5px;
+}
+
 .map_box div i {
     font-size: 100px;
 }
