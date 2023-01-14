@@ -1,1 +1,1 @@
-var loc = alert("salom")
+var loc = alert("Manzil pastda location down местоположение вниз")
