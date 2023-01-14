@@ -8,11 +8,11 @@
         padding: 15px 0px;
     }
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
 }
 
@@ -21,11 +21,11 @@
 
 @media only screen and (min-width: 599px) and (max-width: 767px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .logo {
         text-align: center;
@@ -100,11 +100,11 @@
 
 @media only screen and (min-width: 280px) and (max-width: 599px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .cart-content-right {
         padding-bottom: 5px;
@@ -150,11 +150,11 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .about_taital_main {
         padding-top: 110px;
@@ -200,11 +200,11 @@
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .btn_main {
         width: 100%;
@@ -330,11 +330,11 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .btn_main {
         width: 100%;
@@ -473,11 +473,11 @@
 
 @media (max-width: 575px) {
     .map_box {
-        width: 950%;
+        width: 100%;
     }
     .map_box iframe {
-        width: 100%;
-        height: 500px;
+        width: 50%;
+        height: 150px;
     }
     .btn_main {
         width: 100%;

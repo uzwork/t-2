@@ -33,7 +33,11 @@
 }
 
 .map_box {
-    width: 950%;
+    width: 10%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .map_box iframe {
