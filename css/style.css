@@ -170,6 +170,11 @@ a,
     transition: all .3s ease-in-out;
 }
 
+.navbar .logo a img {
+    width: 30%;
+    border-radius: 5px;
+}
+
 img {
     max-width: 100%;
     height: auto;
